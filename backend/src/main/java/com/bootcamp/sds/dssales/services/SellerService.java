@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 public class SellerService {
 
     @Autowired
-    SellerRepository repository;
+    private SellerRepository repository;
 
     public List<SellerDTO> findAll() {
         List<Seller> entities = repository.findAll();
