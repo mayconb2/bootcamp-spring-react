@@ -35,7 +35,7 @@ A aplicação possui um frontend simples feito em React que consome os dados de 
 
 # Como acessar o projeto
 
-Para conferir o resultado final do projeto, você pode acessar [esse link](https://mayconb2-sds3.netlify.app/ "link do projeto").
+Para conferir o resultado final do projeto, você pode acessar [esse link](https://mayconb2-sds3.netlify.app/ "link do projeto"). É possível que, quando você acesse a página de Dashboard, os dados demorem um pouco para aparecerem. Isso ocorre porque a aplicação está hospedada em um plano gratuito no Heroku. Quando não há acessos constantes, a aplicação é "hibernada", e é levantada novamente após o primeiro acesso.
 
 # Como executar o projeto localmente
 
